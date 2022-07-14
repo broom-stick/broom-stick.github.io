@@ -16,8 +16,9 @@ body {
 .tag h1 {
     font-size: 35px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
 }
 .tag p {
-    font-size: 15px;
+    font-size: 17px;
     font-family: 'Courier New', Courier, monospace;
 }
